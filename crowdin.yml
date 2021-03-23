@@ -1,0 +1,3 @@
+files:
+  - source: /data/menus/main_menu.xml
+    translation: '%language%/%two_letters_code%'
