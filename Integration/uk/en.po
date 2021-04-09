@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: integration-a-33\n"
 "Report-Msgid-Bugs-To: tux4kids-tuxtype-dev@lists.alioth.debian.org\n"
 "POT-Creation-Date: 2008-08-13 16:20+0530\n"
-"PO-Revision-Date: 2021-04-09 07:03\n"
+"PO-Revision-Date: 2021-04-09 07:06\n"
 "Last-Translator: Mobin M <mobinmohan@gmail.com>\n"
 "Language-Team: Ukrainian\n"
 "MIME-Version: 1.0\n"
@@ -19,137 +19,137 @@ msgstr ""
 
 #: src/pause.c:286
 msgid "Sound Effects Volume"
-msgstr ""
+msgstr "Гучність звукових ефектів"
 
 #: src/pause.c:295
 msgid "Music Volume"
-msgstr ""
+msgstr "Гучність музики"
 
 #: src/pause.c:306
 msgid "Sound & Music Disabled"
-msgstr ""
+msgstr "Звук і Музика відключені"
 
 #: src/pause.c:316
 msgid "Paused!"
-msgstr ""
+msgstr "Призупинено!"
 
 #: src/pause.c:325
 msgid "Press escape again to return to menu"
-msgstr ""
+msgstr "Щоб повернутися в меню знову натисніть клавішу"
 
 #: src/pause.c:334
 msgid "Press space bar to return to game"
-msgstr ""
+msgstr "Натисніть пробіл, щоб повернутися до гри"
 
 #: src/playgame.c:945
 msgid "Level"
-msgstr ""
+msgstr "Рівень"
 
 #: src/playgame.c:946
 msgid "Lives"
-msgstr ""
+msgstr "Життя"
 
 #: src/playgame.c:947
 msgid "Fish"
-msgstr ""
+msgstr "Риба"
 
 #: src/playgame.c:949 src/titlescreen.c:74
 msgid "Easy"
-msgstr ""
+msgstr "Легко"
 
 #: src/playgame.c:950 src/titlescreen.c:75
 msgid "Medium"
-msgstr ""
+msgstr "Медіум"
 
 #: src/playgame.c:951 src/titlescreen.c:76
 msgid "Hard"
-msgstr ""
+msgstr "Жорсткий"
 
 #: src/playgame.c:952 src/titlescreen.c:75
 msgid "Practice"
-msgstr ""
+msgstr "Тренування"
 
 #: src/playgame.c:963
 msgid "Congratulations"
-msgstr ""
+msgstr "Вітання"
 
 #: src/playgame.c:967
 msgid "Oh No!"
-msgstr ""
+msgstr "Oh No!"
 
 #: src/practice.c:239
 msgid "Great!"
-msgstr ""
+msgstr "Чудово!"
 
 #: src/practice.c:589
 msgid "Next letter "
-msgstr ""
+msgstr "Наступна буква "
 
 #: src/titlescreen.c:74
 msgid "Fish Cascade"
-msgstr ""
+msgstr "Каскад риби"
 
 #: src/titlescreen.c:74
 msgid "Space Cadet"
-msgstr ""
+msgstr "Космічний кадет"
 
 #: src/titlescreen.c:74
 msgid "Edit Word Lists"
-msgstr ""
+msgstr "Редагувати списки слів"
 
 #: src/titlescreen.c:75
 msgid "Comet Zap"
-msgstr ""
+msgstr "Comet Zap"
 
 #: src/titlescreen.c:75
 msgid "Pilot"
-msgstr ""
+msgstr "Пілот"
 
 #: src/titlescreen.c:76
 msgid "Lessons"
-msgstr ""
+msgstr "Уроки"
 
 #: src/titlescreen.c:76
 msgid "Ace"
-msgstr ""
+msgstr "Туз"
 
 #: src/titlescreen.c:76
 msgid "Project Info"
-msgstr ""
+msgstr "Інформація про проект"
 
 #: src/titlescreen.c:77
 msgid "Options"
-msgstr ""
+msgstr "Опції"
 
 #: src/titlescreen.c:77
 msgid "Instructions"
-msgstr ""
+msgstr "Інструкції"
 
 #: src/titlescreen.c:77
 msgid "Commander"
-msgstr ""
+msgstr "Командер"
 
 #: src/titlescreen.c:77
 msgid "Setup Language"
-msgstr ""
+msgstr "Налаштування мови"
 
 #: src/titlescreen.c:78
 msgid "Quit"
-msgstr ""
+msgstr "Вийти"
 
 #: src/titlescreen.c:78
 msgid "Main Menu"
-msgstr ""
+msgstr "Головне Меню"
 
 #: src/titlescreen.c:1156
 msgid "Work In Progress!"
-msgstr ""
+msgstr "Робота в процесі!"
 
 #: src/titlescreen.c:1157
 msgid "This feature is not ready yet"
-msgstr ""
+msgstr "Ця функція ще не готова"
 
 #: src/titlescreen.c:1158
 msgid "Discuss the future of TuxTyping at"
-msgstr ""
+msgstr "Обговорити майбутнє TuxTyping на"
 
