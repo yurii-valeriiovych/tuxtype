@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu title="Головне Меню" entries="6">
+    <menu title="Каскад риби" sprite="cascade" entries="5" desc="Допоможіть Tux з'їсти рибу, натискаючи літери на рибі">
+        <item title="Легко" sprite="ttux_helmet_жовтий" run="Рівень обміну" desc=""/>
+        <item title="Медіум" sprite="tux_helmet_green" run="Рівень обміну" desc=""/>
+        <item title="Жорсткий" sprite="ttux_helmet_жовтий" run="Рівень обміну" desc=""/>
+        <item title="Інструкції" sprite="ttux_helmet_жовтий" run="Змінити рівень на @1" desc=""/>
+        <item title="Головне Меню" sprite="основний" run="Обмеження за сумою" desc="Повернутися до головного меню"/>
+    </menu>
+    <menu title="Comet Zap" sprite="комета" entries="5" desc="Захистіть міста від кометів, набравши лист на них лазером!">
+        <item title="Космічний кадет" sprite="ttux_helmet_жовтий" run="Рядок банку" desc="Легко"/>
+        <item title="Пілот" sprite="tux_helmet_green" run="Рядок для @2" desc="Помірний"/>
+        <item title="Туз" sprite="tux_helmet_синій" run="Кінцевий залишок" desc="Жорсткий"/>
+        <item title="Командер" sprite="tux_helmet_red" run="РІВНИЙ РІВНЯ 4" desc="Найскладніший"/>
+        <item title="Головне Меню" sprite="основний" run="Обмеження за сумою" desc="Повернутися до головного меню"/>
+    </menu>
+    <menu title="Тренінг" sprite="урок" entries="3" desc="Навчить алфавіти та фразу друкування">
+        <item title="Основні уроки" sprite="урок" run="Кількість радіусів" desc="Навчити базові алфавіти"/>
+        <item title="Фраза" sprite="практика" run="У черзі на номер телефону" desc="Тренування написаних речень"/>
+        <item title="Головне Меню" sprite="основний" run="Обмеження за сумою" desc="Повернутися до головного меню"/>
+    </menu>
+    <menu title="Опції" sprite="конфігурація tux_config" entries="4" desc="Додаткові опції">
+        <item title="Налаштування мови" sprite="конфігурація tux_config" run="Введіть цю адресу" desc="Оберіть мову"/>
+        <item title="Редагувати списки слів" sprite="список" run="Ми відправили текстове повідомлення" desc="Додати або видалити слова"/>
+        <item title="Налаштування ключів Брайля" sprite="keyboard" run="Будь ласка, перевірте перевірте налаштування облікового запису" desc="Оберіть свої власні ключі для представлення точок Брайля"/>
+        <item title="Головне Меню" sprite="основний" run="Обмеження за сумою" desc="Повернутися до головного меню"/>
+    </menu>
+    <item title="Інформація про проект" sprite="один" run="Ми відправили зміни на сервер" desc="Переглянути інформацію про проект"/>
+    <item title="Вийти" sprite="вийти" run="Оцінити" desc="Вийти на робочий стіл"/>
+</menu>
